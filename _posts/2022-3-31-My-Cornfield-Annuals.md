@@ -1,8 +1,4 @@
 ---
 layout: post
-title: You're up and running!
+title: Cornfield annuals!
 ---
-
-
-# Cornfield annuals
-## Here are my cornfield annuals
